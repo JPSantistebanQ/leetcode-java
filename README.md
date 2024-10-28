@@ -6,5 +6,5 @@ This repository contains solutions to LeetCode problems. The solutions are writt
 
 ### Basic
 
-* [1. Two Sum](src/main/java/com/jpsantq/leetcode/problems/basic/b_0001_two_sum/TwoSum.java)
-* [9. Palindrome Number](src/main/java/com/jpsantq/leetcode/problems/basic/b_0009_palindrome_number/PalindromeNumber.java)
+* [1. Two Sum](src/main/java/com/jpsantq/leetcode/problems/basic/b_0001_two_sum/TwoSum.md)
+* [9. Palindrome Number](src/main/java/com/jpsantq/leetcode/problems/basic/b_0009_palindrome_number/PalindromeNumber.md)

@@ -42,3 +42,9 @@ Output: [0,1]
 **Follow-up**: Can you come up with an algorithm that is less than `O(n^2)` time complexity?
 
 For more examples, refer to the [LeetCode page](https://leetcode.com/problems/two-sum/).
+
+**Solution**
+
+[Java implementation](./TwoSum.java)
+
+[Test cases](../../../../../../../../test/java/com/jpsantq/leetcode/problems/basic/b_0001_two_sum/TwoSumTest.java)
