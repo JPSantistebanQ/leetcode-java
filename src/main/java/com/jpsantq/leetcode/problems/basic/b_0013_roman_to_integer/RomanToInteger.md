@@ -63,3 +63,9 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 * It is guaranteed that `s` is a valid Roman numeral in the range `[1, 3999]`.
 
 For more examples, refer to the [LeetCode page](https://leetcode.com/problems/roman-to-integer/).
+
+**Solution**
+
+[Java implementation](./RomanToInteger.java)
+
+[Test cases](../../../../../../../../test/java/com/jpsantq/leetcode/problems/basic/b_0013_roman_to_integer/RomanToIntegerTest.java)

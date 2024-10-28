@@ -1,6 +1,7 @@
 # LeetCode problems
 
-This repository contains solutions to LeetCode problems. The solutions are written in Java and are organized by problem difficulty and number.
+This repository contains solutions to LeetCode problems. The solutions are written in Java and are organized by problem
+difficulty and number.
 
 ## Problems
 
@@ -8,3 +9,4 @@ This repository contains solutions to LeetCode problems. The solutions are writt
 
 * [1. Two Sum](src/main/java/com/jpsantq/leetcode/problems/basic/b_0001_two_sum/TwoSum.md)
 * [9. Palindrome Number](src/main/java/com/jpsantq/leetcode/problems/basic/b_0009_palindrome_number/PalindromeNumber.md)
+* [13. Roman to Integer](src/main/java/com/jpsantq/leetcode/problems/basic/b_0013_roman_to_integer/RomanToInteger.md)
